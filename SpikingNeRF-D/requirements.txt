@@ -1,0 +1,11 @@
+numpy
+scipy
+cupy-cuda117
+ninja
+tqdm
+lpips
+imageio==2.25
+imageio-ffmpeg
+opencv-python
+torch_efficient_distloss
+
