@@ -74,7 +74,7 @@ python run.py --config configs/nerf_main_not_condensing/lego.py --render_test --
 ## What's more
 
 One can easily re-write the config file (e.g. configs/nerf_main_condensing/lego.py) to reproduce different ablation results, e.g. temporal flip. 
-SpikingNeRF-T is the TensoRF based spikingnerf. Just check autorun.py in Spikingnerf-t.
+SpikingNeRF-T is the TensoRF based spikingnerf. Just check and understant how to use autorun.py in Spikingnerf-t.
 and `python autorun.py`.
 
 ## Declaration & Some nonsignificant Personal Complaints （I just failed holding it back）
