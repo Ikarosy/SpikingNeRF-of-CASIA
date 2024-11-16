@@ -77,7 +77,7 @@ One can easily re-write the config file (e.g. configs/nerf_main_condensing/lego.
 SpikingNeRF-T is the TensoRF based spikingnerf. Just check and understant how to use autorun.py in Spikingnerf-t.
 and `python autorun.py`.
 
-## Declaration & Some nonsignificant Personal Complaints （I just failed holding it back）
+## Declaration & Some Nonsignificant Personal Complaints （I just failed holding it back）
 
 This project will be updated irregularly until the full version is contained. I run this project all by my own. I would take responsibility of what I said. Do not relate to my affiliation.
 
