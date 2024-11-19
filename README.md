@@ -1,6 +1,6 @@
 # SpikingNeRF: Making Bio-inspired Neural Networks See through the Real
 
-Code implementation for SpikingNeRF-D, which is described in the main text of the paper.  We provide the codes for anything you like. I also have some words in the Declaration part.
+Code implementation for SpikingNeRF-D, which is described in the main text of the paper.  We provide the codes for anything you like. 
 
 ## Quick setup
 
@@ -77,7 +77,7 @@ One can easily re-write the config file (e.g. configs/nerf_main_condensing/lego.
 SpikingNeRF-T is the TensoRF based spikingnerf. Just check and understant how to use autorun.py in Spikingnerf-t.
 and `python autorun.py`.
 
-## Declaration & Some Nonsignificant Personal Complaints （I just failed holding it back）
+## Declaration & Some Nonsignificant Personal Complaints （I just failed holding it back, please just ignore them）
 
 This project will be updated irregularly until the full version is contained. I run this project all by my own and the critical idea was proposed by the other first author. I would take responsibility for what I said. **Do not relate to my affiliation and other authors.**
 
