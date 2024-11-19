@@ -87,7 +87,7 @@ The most ridiculous part came. The guy who gave me 2 points wrote a lot of comme
 
 I am totally open to negative comments. They can help perfect my work. But such **toxic lies** are driving me FKing crazy. It exactly fits the old Chinese saying "欲加之罪何患无辞", just fabricate some crimes and put me in the jail. 
 
-I was so so so pissed.  Why would I suffer such persecution?  How could such JK be a reviewer who clearly violated the ethical guidelines?
+I was so so so pissed.  Why would I suffer such persecution?  How could such J**k be a reviewer who clearly violated the ethical guidelines?
 
 Now, I clearly understand why influential works like Mamba, PACT, would be rejected. Some vicious peers.  Nevertheless, I have to let it go. I am just tired. Need to move on. But,  wont go any further with this project. 11-16,2024. 
 
