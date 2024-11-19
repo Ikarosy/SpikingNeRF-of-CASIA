@@ -83,7 +83,7 @@ This project will be updated irregularly until the full version is contained. I 
 
 
 
-=========Ignore the following, Thanks!============
+===============Ignore the following, Thanks!==================
 
 I was really pissed by the lying reviewer of (one top conf.) I unluckily encountered.  This MF wrote a  bunch of comments that were full of fake evidence and fabricated arguments. In the very beginning, this paper was poorly written and the experiments are not complete. But, after a year of perfection. I got 7/6/3/2 scores in (one top conf.). the reviewers who gave me 7/6 recognized the contibution and deemed this work as "solid". The reviewer who gave me 3 had its own insistence on the hardware part (its concept of hardware was wrong and it appeared not familiar with hardware at all). Fine, I respect it although the guy was unprofessional and low-level. At least, it had its opinion and recognized my originality.
 
